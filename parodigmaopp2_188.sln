@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphy", "polymorphy\po
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{6A216BAC-F265-4208-A20D-0FB7F6C83B4F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapulasi", "enkapulasi\enkapulasi.vcxproj", "{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{6A216BAC-F265-4208-A20D-0FB7F6C83B4F}.Release|x64.Build.0 = Release|x64
 		{6A216BAC-F265-4208-A20D-0FB7F6C83B4F}.Release|x86.ActiveCfg = Release|Win32
 		{6A216BAC-F265-4208-A20D-0FB7F6C83B4F}.Release|x86.Build.0 = Release|Win32
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Debug|x64.ActiveCfg = Debug|x64
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Debug|x64.Build.0 = Debug|x64
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Debug|x86.ActiveCfg = Debug|Win32
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Debug|x86.Build.0 = Debug|Win32
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Release|x64.ActiveCfg = Release|x64
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Release|x64.Build.0 = Release|x64
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Release|x86.ActiveCfg = Release|Win32
+		{B33DADDD-A6E3-4EEC-9BAB-42BC46BE2A12}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
