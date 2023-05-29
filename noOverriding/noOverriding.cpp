@@ -8,8 +8,25 @@ public:
 	}
 };
 
-class 
+class derivedClass : public baseClass {
+public:
+	void perkenalan() {
+		cout << "Hallo saya Function dari base class";
+	}
+};
 
-int main()
+class derivedClass : public baseClass {
+public:
+	void perkenalan() {
+		cout << "Hallo saya Function dari base class";
+	}
+};
+
+int main() {
+	derivedClass a;
+	a.perkenalan();
+
+	return 0;
+}
 
 
