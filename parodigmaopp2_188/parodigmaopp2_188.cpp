@@ -41,7 +41,7 @@ public:
 		cout << "pelajar dihapus\n" << endl;
 	}
 	string perkenalan() {
-		return "Hallo, nama saya " + nama + "dengan jenis kelamin " + jeniskelamin + "yang bersekolah di " + sekolah + ;
+		return "Hallo, nama saya " + nama + "dengan jenis kelamin " + jeniskelamin + "yang bersekolah di " + sekolah + "\n\n";
 	}
 };
 
